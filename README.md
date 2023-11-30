@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on correlation between Mathematics and Computer Science
+- 🌱 I’m currently learning the art of computer programming
+- 📫 How to reach me: https://www.linkedin.com/in/madhav-kotecha
+- 😄 Pronouns: He/Him
 <!--
 **madhav-kotecha/madhav-kotecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
